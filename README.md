@@ -1,6 +1,6 @@
 # Metacritic TV Shows Analysis
 
-> 🚧 **Project in Progress**
+>  **Project in Progress**
 
 ## Goal
 
@@ -16,7 +16,8 @@ Analyze TV show ratings from Metacritic to explore patterns in critic vs audienc
 
 ### Raw Data
 
-![Raw data preview](images/raw_data.png)
+![Raw data preview 1](images/raw_1.png)
+![Raw data preview 2](images/raw_2.png)
 
 ### Cleaning Summary
 
@@ -25,7 +26,7 @@ Analyze TV show ratings from Metacritic to explore patterns in critic vs audienc
 - Standardized date formats (4 different formats → unified)
 - Validated select fields via OMDB API
 
-📓 See: `notebooks/01_data_cleaning.ipynb`
+ See: `notebooks/01_data_cleaning.ipynb`
 
 ---
 
@@ -39,7 +40,7 @@ Normalized flat dataset into star schema for Power BI:
 
 ![Power BI data model](images/data_model.png)
 
-📓 See: `notebooks/02_data_normalization.ipynb`
+ See: `notebooks/02_data_normalization.ipynb`
 
 ---
 

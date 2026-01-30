@@ -13,3 +13,4 @@ power_bi_data/dim_genres.csv
 power_bi_data/dim_writers.csv
 bi_report/tv_shows.pbix
 /utils
+.env
