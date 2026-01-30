@@ -1,0 +1,23 @@
+# Data manipulation
+pandas
+numpy
+
+
+
+# Excel/CSV handling
+openpyxl
+
+
+
+ #Jupyter 
+jupyter
+ipykernel
+# Data validation
+great-expectations
+pydantic
+
+
+
+# Visualization for EDA 
+matplotlib
+seaborn

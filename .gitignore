@@ -1,0 +1,15 @@
+power_bi_data/bridge_cast.csv
+power_bi_data/bridge_companies.csv
+power_bi_data/bridge_creators.csv
+power_bi_data/bridge_directors.csv
+power_bi_data/bridge_genres.csv
+power_bi_data/bridge_writers.csv
+power_bi_data/dim_cast.csv
+power_bi_data/dim_companies.csv
+power_bi_data/dim_creators.csv
+power_bi_data/dim_date.csv
+power_bi_data/dim_directors.csv
+power_bi_data/dim_genres.csv
+power_bi_data/dim_writers.csv
+bi_report/tv_shows.pbix
+/utils
