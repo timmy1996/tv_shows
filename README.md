@@ -32,7 +32,7 @@ Analyze TV show ratings from Metacritic to explore patterns in critic vs audienc
 
 ## Data Model
 
-Normalized flat dataset into star schema for Power BI:
+Normalised flat dataset into star schema for Power BI:
 
 - **1 Fact table:** Shows
 - **6 Dimension tables:** Genres, Cast, Writers, Directors, Companies, Date
@@ -40,7 +40,7 @@ Normalized flat dataset into star schema for Power BI:
 
 ![Power BI data model](images/data_model.png)
 
- See: `notebooks/02_data_normalization.ipynb`
+ See: `notebooks/02_data_normalisation.ipynb`
 
 ---
 
