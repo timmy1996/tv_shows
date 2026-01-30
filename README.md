@@ -58,11 +58,12 @@ Normalised flat dataset into star schema for Power BI:
 
 ```
 ├── data/
-│   ├── raw/
-│   └── power_bi_data/
+│   ├── ...
+│   
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
-│   └── 02_data_normalization.ipynb
+│   └── 02_data_normalisation.ipynb
+└── power_bi_data/
 ├── images/
 └── README.md
 ```
