@@ -23,7 +23,7 @@ Analyze TV show ratings from Metacritic to explore patterns in critic vs audienc
 
 - Removed records with no valid score data
 - Handled missing values with context-appropriate placeholders
-- Standardized date formats (4 different formats → unified)
+- Standardized date formats (4 different formats to unified format)
 - Validated select fields via OMDB API
 
  See: `notebooks/01_data_cleaning.ipynb`
