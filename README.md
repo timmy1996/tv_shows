@@ -17,6 +17,8 @@ Analyze TV show ratings from Metacritic to explore patterns in critic vs audienc
 ### Raw Data
 
 ![Raw data preview 1](images/raw_1.png)
+
+Continued..
 ![Raw data preview 2](images/raw_2.png)
 
 ### Cleaning Summary
