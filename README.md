@@ -47,7 +47,7 @@ Normalised flat dataset into star schema for Power BI:
 ## Dashboard Preview
 
 ![Dashboard page 1](images/dashboard_01.png)
-
+\n
 ![Dashboard page 2](images/dashboard_02.png)
 
 ![Dashboard page 3](images/dashboard_03.png)
