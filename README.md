@@ -17,13 +17,15 @@ Analyze TV show ratings from Metacritic to explore patterns in critic vs audienc
 ### Raw Data
 
 ![Raw data preview 1](images/raw_1.png)
+
+Continued..
 ![Raw data preview 2](images/raw_2.png)
 
 ### Cleaning Summary
 
 - Removed records with no valid score data
 - Handled missing values with context-appropriate placeholders
-- Standardized date formats (4 different formats → unified)
+- Standardized date formats (4 different formats to unified format)
 - Validated select fields via OMDB API
 
  See: `notebooks/01_data_cleaning.ipynb`
@@ -48,7 +50,9 @@ Normalised flat dataset into star schema for Power BI:
 
 ![Dashboard page 1](images/dashboard_01.png)
 
+
 ![Dashboard page 2](images/dashboard_02.png)
+
 
 ![Dashboard page 3](images/dashboard_03.png)
 
