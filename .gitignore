@@ -16,3 +16,4 @@ bi_report/tv_shows.pbix
 .env
 data_cleaning.ipynb
 .env
+bi_report/meta.pbix
