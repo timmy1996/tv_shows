@@ -12,14 +12,14 @@
 ### Key Visuals
 
 - **Insight Cards**
-  - **Most Divisive Shows** — Largest rating gap between audience and critics. Critics loved "Saved by the Bell" far more than audiences; audiences loved "Stalker" far more than critics.
-  - **Universal Favorite** — Where critics and users agree: "The Sopranos"
+  - **Most Divisive Shows** : Largest rating gap between audience and critics. Critics loved "Saved by the Bell" far more than audiences; audiences loved "Stalker" far more than critics.
+  - **Universal Favorite** : Where critics and users agree: "The Sopranos"
 
-- **Top 5 Matrices** — Shows top 5 by users and by critics, with the corresponding score from the other group to highlight agreement or disagreement.
+- **Top 5 Matrices** : Shows top 5 by users and by critics, with the corresponding score from the other group to highlight agreement or disagreement.
 
-- **Consensus** — Adjustable threshold lets users explore how many shows are rated within X points by both audiences and critics (e.g., within 3 points).
+- **Consensus** : Adjustable threshold lets users explore how many shows are rated within X points by both audiences and critics (e.g., within 3 points).
 
-- **Score Distribution** — Compares how scores are distributed for users vs critics. Both peak in the 60–69 range, showing general alignment overall.
+- **Score Distribution** : Compares how scores are distributed for users vs critics. Both peak in the 60–69 range, showing general alignment overall.
 
 
 ### Slicer Panel
@@ -37,7 +37,7 @@ A slicer panel on the left enables deeper exploration by genre and release year.
 
 #### Filtering by Genre: Comedy
 
-Selecting **Comedy** filters all visuals to show comedy-specific insights — most divisive comedy, top 5 comedies by audience, and so on.
+Selecting **Comedy** filters all visuals to show comedy-specific insights : most divisive comedy, top 5 comedies by audience, and so on.
 
 <p align="center">
   <img src="../images/overview-page-comedy-genre.png" alt="Comedy filter" width="800"/>
@@ -50,19 +50,28 @@ Similarly, selecting **2024** filters to shows released that year:
 <p align="center">
   <img src="../images/overview-page-year-2024.png" alt="2024 filter" width="800"/>
 </p>
+
 ## Page 2: People & Companies
 
+<p align="center">
+  <img src="../images/people-companies.png" alt="People & Companies" width="800"/>
+</p>
 
-<img src="../images/people-companies.png" alt="comedy" width="800"/>
+### KPI Cards
 
-### Cards
-Occupying the top row are 4 static cards giving statistics on the number of directors, actors, writers and production comppanies
+Four static cards display totals for Directors, Actors, Writers, and Production Companies.
+
 ### Entity Analysis
 
+Users can select which entity to explore via toggle buttons. Bookmark-based navigation switches between Directors, Actors, Creators, and Companies.
 
-Consider the Director entity. The report user can gain insights into which directors have the highest rated shows by the critics and audience trhough the matrix visuals. Furthermore, because some directors have only one show and may be a "one trick pony" all told, a minimum number of shows paramater is introduced which allows the report viewer to determine the minimum number of shows the entity must have produced.
+**For each entity:**
+- **Top Rated** — Matrix visuals show highest-rated by critics and by audience
+- **Most Prolific** — Bar chart shows entities with the most shows
 
-Farther down we have a bar chart to show the most prolific directors, for example. 
+**Minimum Shows Threshold** — Some entities have only one show and may be a "one-hit wonder." An adjustable parameter lets users set the minimum number of shows an entity must have to appear in the ratings rankings.
 
-The report viewe can then switch entities by clicking the appropraite button to gain similar insights. 
-We use **bookmarks** to switch between Directors, Actors, Creators, Companies.
+By way of example, below is the view when "Actors" are selected.
+<p align="center">
+  <img src="../images/actor-toggle.png" alt="Entity toggle" width="600"/>
+</p>
