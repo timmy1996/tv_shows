@@ -27,11 +27,14 @@ Over on the left we have a slicer panel which will allow further deep dives by g
     <td><img src="../images/slicer-2.png" width="200" /></td>
   </tr>
 </table>
-For example, selecting the **Comdey** genre filters the visuals on the page to show insights into comedy, for instance which show was the most divisve, which were top 5 for the audience and so on.
+
+#### Comedy
+For example, selecting the **Comedy** genre filters the visuals on the page to show insights into comedy, for instance which show was the most divisve, which were top 5 for the audience and so on.
 
 
 <img src="../images/overview-page-comedy-genre.png" alt="comedy" width="800"/>
 
+#### Year 2024
 And in a similar vein, slicing by year and selecting year 2024 gives the following view:
 
 <img src="../images/overview-page-year-2024.png" alt="comedy" width="800"/>
