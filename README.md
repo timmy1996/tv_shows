@@ -4,7 +4,7 @@
 
 ## Goal
 
-Analyze TV show ratings from Metacritic to explore patterns in critic vs audience scores, genre performance, and trends over time. Final output is an interactive Power BI dashboard.
+Analyze TV show ratings from Metacritic to explore patterns in critic vs audience scores, genre performance, industry talent perfomance by audience and critic scores, and trends over time. Final output is an interactive Power BI dashboard.
 
 ---
 
@@ -46,15 +46,32 @@ Normalised flat dataset into star schema for Power BI:
 
 ---
 
-## Dashboard Preview
+## What the analysis covers
 
+| Page | Question It Answers |
+|------|---------------------|
+| **Overview** | What does the data look like overall? |
+| **People & Companies** | Who makes the best shows? |
+| **Genres, Content Rating and Year analysis** | How have genres evolved? Do critics and users agree? |
+
+## Key Features
+
+- **Critics vs Users** - Ratings analysis 
+- **Entity Explorer** - Toggle between Directors, Actors, Creators, Companies
+- **Adjustable Thresholds** - What-If parameters for minimum ratings/shows
+- **YoY Growth Analysis** - Track genre trends with dynamic year comparison
+
+## Screenshots
 ![Dashboard page 1](images/dashboard_01.png)
 
+### People & Companies
+![People](images/people-companies.png)
 
-![Dashboard page 2](images/dashboard_02.png)
 
 
-![Dashboard page 3](images/dashboard_03.png)
+### Genres
+![Genres](images/genre-year-content.png)
+
 
 ---
 
