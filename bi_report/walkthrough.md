@@ -1,6 +1,6 @@
 ## Page 1: Overview
 
-<img src="../images/overview-page.png" alt="Overview" width="400"/>
+<img src="../images/overview-page.png" alt="Overview" width="800"/>
 
 ### KPI Cards
 - Total Shows
@@ -23,8 +23,8 @@
 Over on the left we have a slicer panel which will allow further deep dives by genre and release year.
 <table>
   <tr>
-    <td><img src="../images/slicer-1.png" width="400" height="250"/></td>
-    <td><img src="../images/slicer-2.png" width="400" height="250"/></td>
+    <td><img src="../images/slicer-1.png" width="200" /></td>
+    <td><img src="../images/slicer-2.png" width="200" /></td>
   </tr>
 </table>
 For example, selecting the **Comdey** genre filters the visuals on the page to show insights into comedy, for instance which show was the most divisve, which were top 5 for the audience and so on.
