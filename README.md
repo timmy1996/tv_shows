@@ -1,6 +1,5 @@
 # Metacritic TV Shows Analysis
 
->  **Project in Progress**
 
 ## Goal
 
@@ -104,6 +103,8 @@ Normalised flat dataset into star schema for Power BI:
 - Python (pandas)
 - OMDB API
 - Power BI
+
+## Icons
 Icons by [Flaticon](https://www.flaticon.com/):
 - iconixar
 - Good Ware

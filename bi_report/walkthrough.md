@@ -101,11 +101,11 @@ The slicer panel allows further exploration by genre and content rating.
   <table>
     <tr>
       <td align="center">
-        <img src="../images/genre-slice.png" width="400"/>
+        <img src="../images/genre-slice.png" width="500"/>
         <br><em>Filtering by Action, Adventure & Animation</em>
       </td>
       <td align="center">
-        <img src="../images/content-rating-slice.png" width="400"/>
+        <img src="../images/content-rating-slice.png" width="500"/>
         <br><em>Filtering by content rating</em>
       </td>
     </tr>
