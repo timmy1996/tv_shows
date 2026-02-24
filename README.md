@@ -73,20 +73,28 @@ Normalised flat dataset into star schema for Power BI:
 ![Genres](images/genre-year-content.png)
 
 
+**Please see `bi_report/walkthrough.md` for more about these pages.**
+
 ---
 
 ## Project Structure
 
 ```
+├── bi_report/
+│   └── walkthrough.md
 ├── data/
-│   ├── ...
-│   
+│   ├── metacritic_tv_shows.csv
+│   └── shows_cleaned.csv
+├── images/
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_data_normalisation.ipynb
-└── power_bi_data/
-├── images/
-└── README.md
+├── power_bi_data/
+│   └── fact_shows.csv
+├── .gitattributes
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ---
@@ -96,3 +104,8 @@ Normalised flat dataset into star schema for Power BI:
 - Python (pandas)
 - OMDB API
 - Power BI
+Icons by [Flaticon](https://www.flaticon.com/):
+- iconixar
+- Good Ware
+- Freepik
+- afif fudin

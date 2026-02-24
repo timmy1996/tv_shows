@@ -85,13 +85,13 @@ By way of example, below is the view when "Actors" are selected.
 
 ### Visuals
 
-- **Ratings Over Time (Line Chart)** — Shows average critic and audience ratings by release year. Earlier years (pre-2000) have fewer shows, so averages may represent only one or two titles. That said, ratings remain relatively stable over time — no consistent upward or downward trend.
+- **Ratings Over Time (Line Chart)**: Shows average critic and audience ratings by release year. Earlier years (pre-2000) have fewer shows, so averages may represent only one or two titles. That said, ratings remain relatively stable over time, i.e. there is no consistent upward or downward trend.
 
-- **Top Genres by Volume (Bar Chart)** — Horizontal bar chart ranking genres by number of shows. Drama leads, followed by Comedy.
+- **Top Genres by Volume (Bar Chart)**: Horizontal bar chart ranking genres by number of shows. Overall (with no slicers/filters) Drama leads, followed by Comedy.
 
-- **Genre Share by Release Year (Area Chart)** — Shows genre proportions over time, revealing how the genre mix has evolved.
+- **Genre Share by Release Year (Area Chart)**: Shows genre proportions over time, revealing how the genre mix has evolved.
 
-- **Year-on-Year Analysis** — Compare show counts between consecutive years. Users select a comparison year; the dashboard displays the change in volume and percentage growth. For example, 2022 vs 2021 shows 28 more shows (+13.9%). A clustered bar chart breaks this down by genre — Romance had the largest growth. *Note: This dataset is not exhaustive; conclusions are limited by the data source.*
+- **Year-on-Year Analysis**: Compare show counts and percentage growth between consecutive years. Users select a comparison year; the dashboard displays the change in volume and percentage growth. For example, 2022 vs 2021 shows 28 more shows (+13.9%). A clustered bar chart breaks this down by genre with Romance having the largest growth. *Note: This dataset is not exhaustive; conclusions are limited by the data source.*
 
 ### Slicer Panel
 
@@ -114,6 +114,6 @@ The slicer panel allows further exploration by genre and content rating.
 
 ## Closing Thoughts
 
-This project was an exercise in turning raw entertainment data into actionable insights.
+This project was an exercise in turning raw entertainment data into interesting insights.
 
 There's always room to extend: additional pages for networks, seasons, or episode-level analysis could add further depth.
